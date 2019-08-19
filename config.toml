@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "zh-Hans"
+title = "从入门到秃头"
+theme = "ananke"

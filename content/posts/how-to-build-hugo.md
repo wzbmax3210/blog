@@ -1,7 +1,7 @@
 ---
 title: "使用Hugo搭建个人博客"
 date: 2019-10-23T14:20:26+08:00
-draft: true
+draft: false
 ---
 1.从[Hugo](https://gohugo.io/)官网的[Install](https://github.com/gohugoio/hugo/releases)页面下载相应系统的安装文件
 

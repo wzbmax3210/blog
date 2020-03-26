@@ -1,7 +1,7 @@
 ---
 title: "Js概览"
 date: 2019-10-29T15:04:42+08:00
-draft: false
+draft: true
 ---
 
 JavaScript是布兰登·艾奇(Brendan Eich)于1995年在网景公司的要求下开发的。
